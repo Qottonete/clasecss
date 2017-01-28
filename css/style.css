@@ -1,0 +1,106 @@
+body {
+position:relative;
+top:100px;
+}
+
+.contenedor {
+	max-width:1000px;
+	margin: auto;
+	/*background-color: #FF5555;*/
+}
+
+
+nav {
+	background-color: #999999;
+	position:fixed;
+	width:100%;
+	top:0;
+}
+
+nav img {
+	padding: 22px;
+}
+
+.menu {
+	float: right;
+
+}
+
+.menu li {
+	display: inline-block;
+	padding:42px 10px;
+	font-size: 16px;
+}
+
+.menu li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	font-family: helvetica;
+}
+
+.menu li a:hover{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #333333;
+	font-family: helvetica;
+}
+
+header{
+	top: 100px;
+	padding: 100px 0px;
+	background-image: url("../images/earth.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+header h1 {
+	font-size: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+}
+
+header h3{
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+}
+
+
+.servicios h2 {
+font-size: 30px;
+text-transform: uppercase;
+margin-top: 40px;
+}
+
+.servicio {
+	display:inline-block;
+	margin-top: 25px;
+	width: 32%;
+}
+
+
+.servicio .boton {
+	font-size: 24px;
+	color: #333333;
+	background-color: #DDDDDD;
+	padding: 15px;
+	display:inline-block;
+	margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
